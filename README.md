@@ -5,8 +5,6 @@
 
 • 💻 Programmer always evolving
 
-• 📚 Learning JavaScript, Python, HTML, C++ & TypeScript
-
 • 🗺️ I am Brazillian
 
 • 📅 I am 17 years old
